@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Line Art Test</title>
+<style type="text/css">
+body{
+	background:#222;
+}
+#fps{
+	font-family:"Courier New", Courier, monospace;
+	font-size:13px;
+	position:absolute;
+	top:3px;
+	right:3px;
+	color:#FFF;	
+}
+#config{
+	position:absolute;
+	bottom:0;
+	left:40%;
+	background:#FFF;
+	color:#000;
+	padding:5px;
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+}
+#chrome{
+	position:absolute;
+	bottom:10px;
+	left:10px;	
+}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="../build/line-art.min.js"></script>
+</head>
+
+<body>
+<div id="config">
+	<input type="range" min="1" max="200" step="1" value="100" name="pointsNum" id="pointsNum" title="Number of points" />
+	<label><input type="checkbox" name="outline" id="outline" checked /> Outline</label>
+</div>
+<div id="fps">FPS: 0</div>
+<div id="chrome">
+	<a href="http://www.chromeexperiments.com/detail/line-art" title="Line Art is a Chrome Experiment"><img src="http://lab.nuostudio.com/img/chrome-trans.png" width="107" height="56" alt="This is a Chrome Experiment" /></a>
+</div>
+<canvas width="100%" height="100%" id="bg" style="color:#09F"></canvas>
+</body>
+</html>
