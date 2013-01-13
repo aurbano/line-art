@@ -12,7 +12,11 @@ It requires jQuery, although it's only used to make some parts of the code easie
 Line-Art creates a sine wave (Only one period) using a number of points controlled by a slider at the bottom. The more points the more exact it will be.
 It then joins the corresponding points from each half period of the sine. It is probably easier to understand by looking at it.
 
-Demo (Chrome recommended, although some other modern browsers will work too): [http://lab.nuostudio.com/lineart](http://lab.nuostudio.com/lineart)
+Demo:
+-----
+[Line Art - nuostudio](http://lab.nuostudio.com/lineart)
+
+(Chrome recommended, although some other modern browsers will work too)
 
 Builds:
 -----
@@ -22,3 +26,5 @@ Builds:
 * * *
 
 Featured in Chrome Experiments: [http://www.chromeexperiments.com/detail/line-art](http://www.chromeexperiments.com/detail/line-art)
+
+Licensed under the MIT license. Developed by [Alejandro U. Alvarez](http://urbanoalvarez.es)
