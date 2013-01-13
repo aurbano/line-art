@@ -3,7 +3,7 @@ Line-Art
 
 ![Line Art](https://raw.github.com/nuostudio/Line-Art/master/misc/screenshot1.gif)
 
-Line-Art is a little experiment created in HTML5 canvas, playing with animated lines trying to create an elegant visual experience.
+> **Line-Art is a little experiment created in HTML5 canvas, playing with animated lines trying to create an elegant visual experience.**
 
 It requires jQuery, although it's only used to make some parts of the code easier.
 
@@ -16,7 +16,7 @@ Demo:
 -----
 [Line Art - nuostudio](http://lab.nuostudio.com/lineart)
 
-(Chrome recommended, although some other modern browsers will work too)
+_(Chrome recommended, although some other modern browsers will work too)_
 
 Builds:
 -----
