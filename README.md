@@ -26,3 +26,5 @@ Builds:
 Featured in Chrome Experiments: [http://www.chromeexperiments.com/detail/line-art](http://www.chromeexperiments.com/detail/line-art)
 
 Licensed under the MIT license. Developed by [Alejandro U. Alvarez](http://urbanoalvarez.es)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/line-art/readme)](https://github.com/aurbano)
