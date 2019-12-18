@@ -23,7 +23,7 @@ Builds:
 
 * * *
 
-Featured in Chrome Experiments: [http://www.chromeexperiments.com/detail/line-art](http://www.chromeexperiments.com/detail/line-art)
+Featured in Chrome Experiments: [https://experiments.withgoogle.com/line-art](https://experiments.withgoogle.com/line-art)
 
 Licensed under the MIT license. Developed by [Alejandro U. Alvarez](https://aurbano.eu)
 
