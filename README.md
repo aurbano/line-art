@@ -12,7 +12,7 @@ It then joins the corresponding points from each half period of the sine. It is 
 
 Demo:
 -----
-[Line Art](http://nuostudio.github.io/Line-Art/)
+[Line Art](https://aurbano.github.io/Line-Art/)
 
 _(Chrome recommended, although some other modern browsers will work too)_
 
@@ -25,6 +25,6 @@ Builds:
 
 Featured in Chrome Experiments: [http://www.chromeexperiments.com/detail/line-art](http://www.chromeexperiments.com/detail/line-art)
 
-Licensed under the MIT license. Developed by [Alejandro U. Alvarez](http://urbanoalvarez.es)
+Licensed under the MIT license. Developed by [Alejandro U. Alvarez](https://aurbano.eu)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-3181088-16/line-art/readme)](https://github.com/aurbano)
